@@ -1,0 +1,7 @@
+firecrawl-py>=2.8.0
+langchain>=0.3.25
+langchain-openai>=0.3.23
+langgraph>=0.4.8
+pydantic>=2.11.6
+python-dotenv>=1.1.0
+PyQt5>=5.15.0
