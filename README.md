@@ -1,10 +1,8 @@
 # DeveloperResearchAgent
 
-
-![NAN](![Screenshot 2025-06-21 152225](https://github.com/user-attachments/assets/88c13a91-be39-4cbf-afc8-7a0fb7844e55)
-)
-
 DeveloperResearchAgent is a project that combines a Python backend and a React front-end. It is designed for research and development purposes, providing a flexible environment for experimenting with various developer tools and workflows.
+
+![Screenshot 2025-06-21 152225](https://github.com/user-attachments/assets/88c13a91-be39-4cbf-afc8-7a0fb7844e55)
 
 ## Features
 - Python backend (see `main.py`, `gui.py`, and `src/`)
